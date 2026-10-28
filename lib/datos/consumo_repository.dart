@@ -1,4 +1,4 @@
-// Etapa 2 — contrato de la fuente de datos.
+// Etapa 2 — contrato de la fuente de datos. Habla como el dominio.
 
 import '../dominio/consumo.dart';
 
